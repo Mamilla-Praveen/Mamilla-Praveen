@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mamilla-Praveen
 - 👀 I’m interested in ...Java Programming
 - 🌱 I’m currently learning ...We Developement
-- 💞️ I’m looking to collaborate on ... Pawzz Platform Intern
+- 💞️ I’m looking to collaborate on ... College.tips Intern
 - 📫 How to reach me ...phone no : 6309547997
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
